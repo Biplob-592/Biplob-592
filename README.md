@@ -12,7 +12,13 @@ Welcome to my GitHub profile! I'm Md. Biplob, a Data Science enthusiast with a p
 
 ## GitHub Analytics 
 
-<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biplob-592&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob-592&layout=compact&theme=dark&hide_border=true"/> </p>
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biplob-592&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob-592&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
 
 
 ## GitHub Streaks
